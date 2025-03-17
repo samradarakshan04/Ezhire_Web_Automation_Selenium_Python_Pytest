@@ -1,0 +1,17 @@
+{
+  "dev": {
+    "url": "https://dev.example.com",
+    "username": "devuser@example.com",
+    "password": "devpassword123"
+  },
+  "staging": {
+    "url": "https://staging.example.com",
+    "username": "staginguser@example.com",
+    "password": "stagingpassword123"
+  },
+  "prod": {
+    "url": "https://www.example.com",
+    "username": "produser@example.com",
+    "password": "prodpassword123"
+  }
+}
